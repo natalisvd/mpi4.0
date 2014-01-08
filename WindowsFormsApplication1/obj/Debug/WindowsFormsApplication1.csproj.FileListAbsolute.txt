@@ -1,0 +1,214 @@
+E:\УНИВЕР\3 курс2 пс\MПИ\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\УНИВЕР\3 курс2 пс\MПИ\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\УНИВЕР\3 курс2 пс\MПИ\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\УНИВЕР\3 курс2 пс\MПИ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\УНИВЕР\3 курс2 пс\MПИ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\УНИВЕР\3 курс2 пс\MПИ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\УНИВЕР\3 курс2 пс\MПИ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\УНИВЕР\3 курс2 пс\MПИ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\УНИВЕР\3 курс2 пс\MПИ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\УНИВЕР\3 курс2 пс\MПИ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddForm.resources
+E:\УНИВЕР\3 курс2 пс\MПИ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MoveGroup.resources
+C:\Users\sp111-18\Desktop\MPI_3.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\sp111-18\Desktop\MPI_3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\sp111-18\Desktop\MPI_3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\sp111-18\Desktop\MPI_3.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\sp111-18\Desktop\MPI_3.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\sp111-18\Desktop\MPI_3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\sp111-18\Desktop\MPI_3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddForm.resources
+C:\Users\sp111-18\Desktop\MPI_3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\sp111-18\Desktop\MPI_3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MoveGroup.resources
+C:\Users\sp111-18\Desktop\MPI_3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\sp111-18\Desktop\MPI_3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\УНИВЕР\3 курс2 пс\MПИ\MPI_3.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\УНИВЕР\3 курс2 пс\MПИ\MPI_3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\УНИВЕР\3 курс2 пс\MПИ\MPI_3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\УНИВЕР\3 курс2 пс\MПИ\MPI_3.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\УНИВЕР\3 курс2 пс\MПИ\MPI_3.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\УНИВЕР\3 курс2 пс\MПИ\MPI_3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\УНИВЕР\3 курс2 пс\MПИ\MPI_3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddForm.resources
+E:\УНИВЕР\3 курс2 пс\MПИ\MPI_3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\УНИВЕР\3 курс2 пс\MПИ\MPI_3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MoveGroup.resources
+E:\УНИВЕР\3 курс2 пс\MПИ\MPI_3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\УНИВЕР\3 курс2 пс\MПИ\MPI_3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+N:\Универ 3 курс\2 пс\MPI_3.2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+N:\Универ 3 курс\2 пс\MPI_3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+N:\Универ 3 курс\2 пс\MPI_3.2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\УНИВЕР\3 курс2 пс\MПИ\MPI_3.3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\УНИВЕР\3 курс2 пс\MПИ\MPI_3.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\УНИВЕР\3 курс2 пс\MПИ\MPI_3.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\УНИВЕР\3 курс2 пс\MПИ\MPI_3.3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\УНИВЕР\3 курс2 пс\MПИ\MPI_3.3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\УНИВЕР\3 курс2 пс\MПИ\MPI_3.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\УНИВЕР\3 курс2 пс\MПИ\MPI_3.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddForm.resources
+E:\УНИВЕР\3 курс2 пс\MПИ\MPI_3.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\УНИВЕР\3 курс2 пс\MПИ\MPI_3.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MoveGroup.resources
+E:\УНИВЕР\3 курс2 пс\MПИ\MPI_3.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\УНИВЕР\3 курс2 пс\MПИ\MPI_3.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\УНИВЕР\3 курс2 пс\MПИ\MPI_3.4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\УНИВЕР\3 курс2 пс\MПИ\MPI_3.4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\УНИВЕР\3 курс2 пс\MПИ\MPI_3.4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\УНИВЕР\3 курс2 пс\MПИ\MPI_3.4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\УНИВЕР\3 курс2 пс\MПИ\MPI_3.4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\УНИВЕР\3 курс2 пс\MПИ\MPI_3.4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\УНИВЕР\3 курс2 пс\MПИ\MPI_3.4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddForm.resources
+E:\УНИВЕР\3 курс2 пс\MПИ\MPI_3.4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\УНИВЕР\3 курс2 пс\MПИ\MPI_3.4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MoveGroup.resources
+E:\УНИВЕР\3 курс2 пс\MПИ\MPI_3.4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\УНИВЕР\3 курс2 пс\MПИ\MPI_3.4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\УНИВЕР\3 курс2 пс\MПИ\MPI_3.4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterAdmin.resources
+C:\Users\sp111-18\Desktop\MPI_3.4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\sp111-18\Desktop\MPI_3.4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\sp111-18\Desktop\MPI_3.4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\sp111-18\Desktop\MPI_3.4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\sp111-18\Desktop\MPI_3.4\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\sp111-18\Desktop\MPI_3.4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\sp111-18\Desktop\MPI_3.4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddForm.resources
+C:\Users\sp111-18\Desktop\MPI_3.4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterAdmin.resources
+C:\Users\sp111-18\Desktop\MPI_3.4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\sp111-18\Desktop\MPI_3.4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MoveGroup.resources
+C:\Users\sp111-18\Desktop\MPI_3.4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\sp111-18\Desktop\MPI_3.4\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\sp111-18\Desktop\MPI_3.5\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\sp111-18\Desktop\MPI_3.5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\sp111-18\Desktop\MPI_3.5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\sp111-18\Desktop\MPI_3.5\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\sp111-18\Desktop\MPI_3.5\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\sp111-18\Desktop\MPI_3.5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\sp111-18\Desktop\MPI_3.5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddForm.resources
+C:\Users\sp111-18\Desktop\MPI_3.5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterAdmin.resources
+C:\Users\sp111-18\Desktop\MPI_3.5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MoveGroup.resources
+C:\Users\sp111-18\Desktop\MPI_3.5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\sp111-18\Desktop\MPI_3.5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\sp111-18\Desktop\MPI_3.5\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainForm.resources
+C:\Users\sp111-18\Desktop\MPI_3.6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\sp111-18\Desktop\MPI_3.6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\sp111-18\Desktop\MPI_3.6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\sp111-18\Desktop\MPI_3.6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\sp111-18\Desktop\MPI_3.6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\sp111-18\Desktop\MPI_3.6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\sp111-18\Desktop\MPI_3.6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddForm.resources
+C:\Users\sp111-18\Desktop\MPI_3.6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterAdmin.resources
+C:\Users\sp111-18\Desktop\MPI_3.6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainForm.resources
+C:\Users\sp111-18\Desktop\MPI_3.6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MoveGroup.resources
+C:\Users\sp111-18\Desktop\MPI_3.6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\sp111-18\Desktop\MPI_3.6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\УНИВЕР\3 курс 2 пс\MПИ\MPI_3.6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\УНИВЕР\3 курс 2 пс\MПИ\MPI_3.6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\УНИВЕР\3 курс 2 пс\MПИ\MPI_3.6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\УНИВЕР\3 курс 2 пс\MПИ\MPI_3.6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\УНИВЕР\3 курс 2 пс\MПИ\MPI_3.6\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\УНИВЕР\3 курс 2 пс\MПИ\MPI_3.6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\УНИВЕР\3 курс 2 пс\MПИ\MPI_3.6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddForm.resources
+E:\УНИВЕР\3 курс 2 пс\MПИ\MPI_3.6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterAdmin.resources
+E:\УНИВЕР\3 курс 2 пс\MПИ\MPI_3.6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainForm.resources
+E:\УНИВЕР\3 курс 2 пс\MПИ\MPI_3.6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MoveGroup.resources
+E:\УНИВЕР\3 курс 2 пс\MПИ\MPI_3.6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\УНИВЕР\3 курс 2 пс\MПИ\MPI_3.6\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\УНИВЕР\3 курс 2 пс\MПИ\MPI_3.7\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\УНИВЕР\3 курс 2 пс\MПИ\MPI_3.7\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\УНИВЕР\3 курс 2 пс\MПИ\MPI_3.7\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\УНИВЕР\3 курс 2 пс\MПИ\MPI_3.7\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\УНИВЕР\3 курс 2 пс\MПИ\MPI_3.7\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\УНИВЕР\3 курс 2 пс\MПИ\MPI_3.7\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\УНИВЕР\3 курс 2 пс\MПИ\MPI_3.7\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddForm.resources
+E:\УНИВЕР\3 курс 2 пс\MПИ\MPI_3.7\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterAdmin.resources
+E:\УНИВЕР\3 курс 2 пс\MПИ\MPI_3.7\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainForm.resources
+E:\УНИВЕР\3 курс 2 пс\MПИ\MPI_3.7\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MoveGroup.resources
+E:\УНИВЕР\3 курс 2 пс\MПИ\MPI_3.7\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\УНИВЕР\3 курс 2 пс\MПИ\MPI_3.7\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\УНИВЕР\3 курс 2 пс\MПИ\MPI_3.7\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GroupShow.resources
+G:\Универ 3 курс\2 пс\MPI_3.7\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\Универ 3 курс\2 пс\MPI_3.7\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\Универ 3 курс\2 пс\MPI_3.7\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\Универ 3 курс\2 пс\MPI_3.7\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\Универ 3 курс\2 пс\MPI_3.7\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\Универ 3 курс\2 пс\MPI_3.7\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+G:\Универ 3 курс\2 пс\MPI_3.7\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddForm.resources
+G:\Универ 3 курс\2 пс\MPI_3.7\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterAdmin.resources
+G:\Универ 3 курс\2 пс\MPI_3.7\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GroupShow.resources
+G:\Универ 3 курс\2 пс\MPI_3.7\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainForm.resources
+G:\Универ 3 курс\2 пс\MPI_3.7\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MoveGroup.resources
+G:\Универ 3 курс\2 пс\MPI_3.7\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Универ 3 курс\2 пс\MPI_3.7\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\sp111-18\Desktop\MPI_3.7\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\sp111-18\Desktop\MPI_3.7\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\sp111-18\Desktop\MPI_3.7\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\sp111-18\Desktop\MPI_3.7\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\sp111-18\Desktop\MPI_3.7\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\sp111-18\Desktop\MPI_3.7\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\sp111-18\Desktop\MPI_3.7\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddForm.resources
+C:\Users\sp111-18\Desktop\MPI_3.7\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterAdmin.resources
+C:\Users\sp111-18\Desktop\MPI_3.7\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GroupShow.resources
+C:\Users\sp111-18\Desktop\MPI_3.7\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainForm.resources
+C:\Users\sp111-18\Desktop\MPI_3.7\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MoveGroup.resources
+C:\Users\sp111-18\Desktop\MPI_3.7\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\sp111-18\Desktop\MPI_3.7\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\Универ 3 курс\2 пс\MPI_3.8\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\Универ 3 курс\2 пс\MPI_3.8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\Универ 3 курс\2 пс\MPI_3.8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\Универ 3 курс\2 пс\MPI_3.8\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\Универ 3 курс\2 пс\MPI_3.8\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\Универ 3 курс\2 пс\MPI_3.8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+G:\Универ 3 курс\2 пс\MPI_3.8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddForm.resources
+G:\Универ 3 курс\2 пс\MPI_3.8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterAdmin.resources
+G:\Универ 3 курс\2 пс\MPI_3.8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GroupShow.resources
+G:\Универ 3 курс\2 пс\MPI_3.8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainForm.resources
+G:\Универ 3 курс\2 пс\MPI_3.8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MoveGroup.resources
+G:\Универ 3 курс\2 пс\MPI_3.8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Универ 3 курс\2 пс\MPI_3.8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\УНИВЕР\3 курс 2 пс\MПИ\MPI_3.8\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\УНИВЕР\3 курс 2 пс\MПИ\MPI_3.8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\УНИВЕР\3 курс 2 пс\MПИ\MPI_3.8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\УНИВЕР\3 курс 2 пс\MПИ\MPI_3.8\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\УНИВЕР\3 курс 2 пс\MПИ\MPI_3.8\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\УНИВЕР\3 курс 2 пс\MПИ\MPI_3.8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\УНИВЕР\3 курс 2 пс\MПИ\MPI_3.8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddForm.resources
+E:\УНИВЕР\3 курс 2 пс\MПИ\MPI_3.8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterAdmin.resources
+E:\УНИВЕР\3 курс 2 пс\MПИ\MPI_3.8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GroupShow.resources
+E:\УНИВЕР\3 курс 2 пс\MПИ\MPI_3.8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainForm.resources
+E:\УНИВЕР\3 курс 2 пс\MПИ\MPI_3.8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MoveGroup.resources
+E:\УНИВЕР\3 курс 2 пс\MПИ\MPI_3.8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\УНИВЕР\3 курс 2 пс\MПИ\MPI_3.8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\sp111-18\Desktop\MPI_3.8\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\sp111-18\Desktop\MPI_3.8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\sp111-18\Desktop\MPI_3.8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\sp111-18\Desktop\MPI_3.8\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\sp111-18\Desktop\MPI_3.8\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\sp111-18\Desktop\MPI_3.8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\sp111-18\Desktop\MPI_3.8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddForm.resources
+C:\Users\sp111-18\Desktop\MPI_3.8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterAdmin.resources
+C:\Users\sp111-18\Desktop\MPI_3.8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GroupShow.resources
+C:\Users\sp111-18\Desktop\MPI_3.8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainForm.resources
+C:\Users\sp111-18\Desktop\MPI_3.8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MoveGroup.resources
+C:\Users\sp111-18\Desktop\MPI_3.8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\sp111-18\Desktop\MPI_3.8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\sp111-18\Desktop\MPI_3.9\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\sp111-18\Desktop\MPI_3.9\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\sp111-18\Desktop\MPI_3.9\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\sp111-18\Desktop\MPI_3.9\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\sp111-18\Desktop\MPI_3.9\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\sp111-18\Desktop\MPI_3.9\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\sp111-18\Desktop\MPI_3.9\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddForm.resources
+C:\Users\sp111-18\Desktop\MPI_3.9\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterAdmin.resources
+C:\Users\sp111-18\Desktop\MPI_3.9\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GroupShow.resources
+C:\Users\sp111-18\Desktop\MPI_3.9\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainForm.resources
+C:\Users\sp111-18\Desktop\MPI_3.9\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MoveGroup.resources
+C:\Users\sp111-18\Desktop\MPI_3.9\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\sp111-18\Desktop\MPI_3.9\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\sp111-18\Desktop\MPI_4.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\sp111-18\Desktop\MPI_4.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\sp111-18\Desktop\MPI_4.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\sp111-18\Desktop\MPI_4.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\sp111-18\Desktop\MPI_4.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\sp111-18\Desktop\MPI_4.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\sp111-18\Desktop\MPI_4.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddForm.resources
+C:\Users\sp111-18\Desktop\MPI_4.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.EnterAdmin.resources
+C:\Users\sp111-18\Desktop\MPI_4.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.GroupShow.resources
+C:\Users\sp111-18\Desktop\MPI_4.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainForm.resources
+C:\Users\sp111-18\Desktop\MPI_4.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MoveGroup.resources
+C:\Users\sp111-18\Desktop\MPI_4.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\sp111-18\Desktop\MPI_4.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+I:\основ. прог. инженер\MPI_4.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+I:\основ. прог. инженер\MPI_4.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+I:\основ. прог. инженер\MPI_4.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
